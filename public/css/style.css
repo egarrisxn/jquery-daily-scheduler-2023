@@ -1,0 +1,80 @@
+/* Body styles */
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+/* Textarea styles */
+textarea {
+  background-color: transparent;
+  border: 2px solid #ced4da;
+  border-radius: 8px;
+  color: #333;
+  padding: 10px;
+  margin-bottom: 2px;
+  width: 100%;
+  transition: border-color 0.3s ease-in-out;
+}
+
+/* Textarea styles on hover */
+textarea:hover {
+  border-color: #007bff;
+}
+
+/* Description class */
+.description {
+  white-space: pre-wrap;
+}
+
+/* Time block styles */
+.time-block {
+  border-radius: 15px;
+  margin-bottom: 2px;
+}
+
+/* Hour styles */
+.hour {
+  background-color: #20c997;
+  color: #ffffff;
+  border-radius: 8px 0 0 8px;
+  padding: 10px;
+  font-weight: bold;
+}
+
+/* Past time block styles */
+.past {
+  background-color: #f8a5c2;
+}
+
+/* Present time block styles */
+.present {
+  background-color: #ffc107;
+}
+
+/* Future time block styles */
+.future {
+  background-color: #82ca9c;
+}
+
+/* Save button styles */
+.saveBtn {
+  background-color: #007bff;
+  color: #ffffff;
+  border: none;
+  border-radius: 0 8px 8px 0;
+  padding: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+
+/* Save button styles on hover */
+.saveBtn:hover {
+  background-color: #0056b3;
+}
+
+/* Save button icon styles */
+.saveBtn i {
+  font-size: 18px;
+}
