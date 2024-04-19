@@ -7,6 +7,8 @@ _Initially created in April of 2023 as a mini-project for my UCF Full-Stack Web 
 
 This project is a simple web-based daily schedule application that helps users organize their tasks for the day. Users can input tasks for different hours, and the application will visually indicate whether each hour is in the past, present, or future relative to the current time. Tasks are saved locally, allowing users to revisit and update their schedule at any time.
 
+![Screenshot 2024-04-18 215709](https://github.com/EGARRISXN/daily-scheduler/assets/126130230/d8cf5480-2401-4c36-8a48-3335b6dd09e4)
+
 ## Features
 
 - **Dynamic Time Display**: The application displays the current date and time, updating in real-time using the Day.js library.
