@@ -1,6 +1,7 @@
 # Daily Schedule Web Application
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-_Initially created in April of 2023 as a mini-project for the UCF Full-Stack Web Development Bootcamp._
+_Initially created in April of 2023 as a mini-project for my UCF Full-Stack Web Development Bootcamp._
 
 ## Overview
 
@@ -47,3 +48,7 @@ To set up the project for local development:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Questions
+
+Feel free to reach out to me here on [GitHub](https://github.com/EGARRISXN), or directly via email at egarrisxn@gmail.com if you have any questions.
