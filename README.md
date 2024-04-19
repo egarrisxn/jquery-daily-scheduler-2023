@@ -1,4 +1,5 @@
 # Daily Schedule Web Application
+
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 _Initially created in April of 2023 as a mini-project for my UCF Full-Stack Web Development Bootcamp._
@@ -24,6 +25,14 @@ This project is a simple web-based daily schedule application that helps users o
 - Day.js: Library for parsing, validating, manipulating, and formatting dates and times.
 - Local Storage API: Allows data to be stored locally within the user's browser.
 
+## Local Development
+
+To set up the project for local development:
+
+1. Clone the repository to your local machine.
+2. Open the project directory.
+3. Open the `index.html` file in a web browser to view the application.
+
 ## Usage
 
 To use the application:
@@ -32,14 +41,6 @@ To use the application:
 2. Input your tasks for each hour of the day.
 3. Click the save button next to each input field to save your tasks.
 4. The application will automatically update the color of each time block based on the current time.
-
-## Local Development
-
-To set up the project for local development:
-
-1. Clone the repository to your local machine.
-2. Open the project directory.
-3. Open the `index.html` file in a web browser to view the application.
 
 ## Future Improvements
 
