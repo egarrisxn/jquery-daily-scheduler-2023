@@ -1,6 +1,6 @@
-# Daily Schedule Web Application
+# Daily Scheduler
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)  ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/daily-scheduler)
 
 _Initially created inthe spring of 2023 for my UCF Full-Stack Web Development Bootcamp._
 
@@ -23,7 +23,7 @@ This project is a simple web-based daily schedule application that helps users o
 - CSS3 (Bootstrap): Used for styling and layout of the application.
 - JavaScript (jQuery): Provides interactivity and dynamic behavior.
 - Day.js: Library for parsing, validating, manipulating, and formatting dates and times.
-- Local Storage API: Allows data to be stored locally within the user's browser.
+- Local Storage: Allows data to be stored locally within the user's browser.
 
 ## Local Development
 
