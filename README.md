@@ -2,13 +2,13 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)  ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/daily-scheduler)
 
-_Initially created inthe spring of 2023 for my UCF Full-Stack Web Development Bootcamp._
+_Initially created in the spring of 2023 for my UCF Full-Stack Web Development Bootcamp._
 
 ## Description
 
 This project is a simple web-based daily schedule application that helps users organize their tasks for the day. Users can input tasks for different hours, and the application will visually indicate whether each hour is in the past, present, or future relative to the current time. Tasks are saved locally, allowing users to revisit and update their schedule at any time.
 
-![Screenshot 2024-04-18 215709](https://github.com/EGARRISXN/daily-scheduler/assets/126130230/d8cf5480-2401-4c36-8a48-3335b6dd09e4)
+![daily-scheduler-vercel](https://github.com/egarrisxn/daily-scheduler/assets/126130230/cac2fc96-b9ea-4f51-b0ec-bf9d8d16242b)
 
 ## Features
 
