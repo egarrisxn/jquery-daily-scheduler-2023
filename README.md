@@ -42,12 +42,6 @@ To use the application:
 3. Click the save button next to each input field to save your tasks.
 4. The application will automatically update the color of each time block based on the current time.
 
-## Future Improvements
-
-- **User Authentication**: Implement user authentication to allow multiple users to save their schedules securely.
-- **Data Syncing**: Enable synchronization of schedules across multiple devices.
-- **Additional Features**: Add features such as task prioritization, recurring tasks, and reminders.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
