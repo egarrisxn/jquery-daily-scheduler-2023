@@ -4,7 +4,7 @@
 
 _Initially created inthe spring of 2023 for my UCF Full-Stack Web Development Bootcamp._
 
-## Overview
+## Description
 
 This project is a simple web-based daily schedule application that helps users organize their tasks for the day. Users can input tasks for different hours, and the application will visually indicate whether each hour is in the past, present, or future relative to the current time. Tasks are saved locally, allowing users to revisit and update their schedule at any time.
 
@@ -17,13 +17,14 @@ This project is a simple web-based daily schedule application that helps users o
 - **Color-Coded Time Blocks**: Each hour's time block is color-coded to indicate whether it is in the past, present, or future relative to the current time.
 - **Local Storage**: User-entered tasks are saved locally, allowing them to persist even after refreshing the page or closing the browser.
 
-## Technologies Used
+## Technologies
 
 - HTML5: Markup language for structuring the web page.
 - CSS3 (Bootstrap): Used for styling and layout of the application.
 - JavaScript (jQuery): Provides interactivity and dynamic behavior.
 - Day.js: Library for parsing, validating, manipulating, and formatting dates and times.
 - Local Storage: Allows data to be stored locally within the user's browser.
+- GitHub Pages: Used to host and deploy your application.
 
 ## Local Development
 
