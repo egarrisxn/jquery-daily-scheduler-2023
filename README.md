@@ -8,7 +8,7 @@ _Initially created in the spring of 2023 for my UCF Full-Stack Web Development B
 
 This project is a simple web-based daily schedule application that helps users organize their tasks for the day. Users can input tasks for different hours, and the application will visually indicate whether each hour is in the past, present, or future relative to the current time. Tasks are saved locally, allowing users to revisit and update their schedule at any time.
 
-![dailyscheduler](https://github.com/egarrisxn/daily-scheduler/assets/126130230/d7833d08-aa3d-45ad-bf38-2e264e89a69c)
+![scheduler1](https://github.com/egarrisxn/daily-scheduler/assets/126130230/e7d3460e-cc08-4c8a-9899-87fa52354209)
 
 ## Features
 
