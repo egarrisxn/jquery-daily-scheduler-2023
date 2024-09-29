@@ -1,6 +1,6 @@
 # Daily Scheduler
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)  ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/daily-scheduler)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)  ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/daily-scheduler) ![GitHub last commit](https://img.shields.io/github/last-commit/egarrisxn/daily-scheduler)
 
 _Initially created in the spring of 2023 for my UCF Full-Stack Web Development Bootcamp._
 
