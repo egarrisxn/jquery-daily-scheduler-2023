@@ -1,14 +1,14 @@
 # jQuery Daily Scheduler 2023
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)  ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/jquery-daily-scheduler-2023) ![GitHub last commit](https://img.shields.io/github/last-commit/egarrisxn/jquery-daily-scheduler-2023)
-
 _Initially created in the spring of 2023 for my UCF Full-Stack Web Development Bootcamp._
+
+![scheduler1](https://github.com/egarrisxn/daily-scheduler/assets/126130230/e7d3460e-cc08-4c8a-9899-87fa52354209)
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)  ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/jquery-daily-scheduler-2023) ![GitHub last commit](https://img.shields.io/github/last-commit/egarrisxn/jquery-daily-scheduler-2023)
 
 ## Description
 
 This project is a simple web-based daily schedule application that helps users organize their tasks for the day. Users can input tasks for different hours, and the application will visually indicate whether each hour is in the past, present, or future relative to the current time. Tasks are saved locally, allowing users to revisit and update their schedule at any time.
-
-![scheduler1](https://github.com/egarrisxn/daily-scheduler/assets/126130230/e7d3460e-cc08-4c8a-9899-87fa52354209)
 
 ## Features
 
